@@ -1,6 +1,6 @@
 #include<stdio.h>  
  int main()    
-{    
+{   //takes a number as an input and returns its reverse  
 int n, reverse=0, rem;    
 printf("Enter a number: ");    
   scanf("%d", &n);    
