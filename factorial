@@ -1,6 +1,6 @@
 #include<stdio.h>  
 int main()    
-{    
+{    //takes a no as an input and returns it's factorial 
  int i,fact=1,number;    
  printf("Enter a number: ");    
   scanf("%d",&number);    
