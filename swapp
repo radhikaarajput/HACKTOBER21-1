@@ -1,3 +1,4 @@
+#include<iostream.h>
 #include<stdio.h>
 int main() {
 //takes 2 nos as input & swap their values
