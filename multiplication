@@ -1,5 +1,6 @@
 #include <stdio.h>
 int main() {
+//takes a no as an input and returns its table from 1 to 10
   int n, i;
   printf("Enter an integer: ");
   scanf("%d", &n);
