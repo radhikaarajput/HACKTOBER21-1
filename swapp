@@ -1,5 +1,6 @@
 #include<stdio.h>
 int main() {
+//takes 2 nos as input & swap their values
   double first, second, temp;
   printf("Enter first number: ");
   scanf("%lf", &first);
