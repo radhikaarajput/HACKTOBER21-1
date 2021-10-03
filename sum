@@ -1,3 +1,4 @@
+#include<iostream.h>  
 #include <stdio.h>
 int main() {
 //takes a number n as an input and returns sum from to n
